@@ -1,0 +1,14 @@
+# Intellij IDEA files
+.idea/
+*.iml
+out/
+gen/
+
+# Build tools
+.gradle/
+build/
+target/
+
+# System files
+.DS_Store
+*.log
